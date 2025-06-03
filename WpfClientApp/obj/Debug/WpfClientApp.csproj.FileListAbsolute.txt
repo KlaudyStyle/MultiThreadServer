@@ -1,0 +1,14 @@
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\bin\Debug\WpfClientApp.exe.config
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\bin\Debug\WpfClientApp.exe
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\bin\Debug\WpfClientApp.pdb
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\MainWindow.baml
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\App.g.cs
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp_MarkupCompile.cache
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.g.resources
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.Properties.Resources.resources
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.csproj.GenerateResource.cache
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.exe
+C:\Users\Klaudy\Desktop\Практические\WpfClientApp\obj\Debug\WpfClientApp.pdb

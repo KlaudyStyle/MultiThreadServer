@@ -1,0 +1,7 @@
+C:\Users\Klaudy\Desktop\Практические\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Klaudy\Desktop\Практические\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Klaudy\Desktop\Практические\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Klaudy\Desktop\Практические\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Практические\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Практические\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Klaudy\Desktop\Практические\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Klaudy\Desktop\Практические\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\Klaudy\Desktop\Практические\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\Klaudy\Desktop\Практические\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\Klaudy\Desktop\Практические\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Практические\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Практические\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\Klaudy\Desktop\Практические\ServerApp\obj\Debug\ServerApp.pdb

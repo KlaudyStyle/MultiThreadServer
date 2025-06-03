@@ -1,0 +1,7 @@
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\bin\Debug\MultiThreadClient.exe.config
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\bin\Debug\MultiThreadClient.exe
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\bin\Debug\MultiThreadClient.pdb
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\obj\Debug\MultiThreadClient.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\obj\Debug\MultiThreadClient.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\obj\Debug\MultiThreadClient.exe
+C:\Users\Klaudy\Desktop\Практические\MultiThreadClient\obj\Debug\MultiThreadClient.pdb
